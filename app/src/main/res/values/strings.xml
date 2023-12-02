@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherScreen</string>
+    <string name="moscow">Moscow</string>
+    <string name="_14">14℃</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+</resources>
