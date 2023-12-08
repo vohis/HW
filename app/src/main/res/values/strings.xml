@@ -4,4 +4,7 @@
     <string name="_14">14℃</string>
     <string name="humidity">Humidity</string>
     <string name="wind">Wind</string>
+    <string name="_15">15%</string>
+    <string name="_10_km_h">10 km/h</string>
+    <string name="moon">moon</string>
 </resources>
